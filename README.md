@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @techthugrug
-- 👀 I’m interested in ...Pentester,WebDeveloper
+
